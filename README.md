@@ -1,5 +1,5 @@
 # DataStructureDesign
-Some projects and thesis writing of data structure course in the first semester of sophomore.
+Some projects of data structure course in the first semester of sophomore.
 
 Specific project requirements and thesis requirements have been uploaded.
 # Projects
@@ -15,8 +15,3 @@ ProjectName|Aspects related
 银行业务|队列
 家谱管理系统|树
 修理牧场|优先级队列
-电网建设造价模拟系统|
-排课软件|
-8种排序算法的比较案例|
-
-# Thesis
